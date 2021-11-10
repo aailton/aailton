@@ -16,7 +16,7 @@ Sou Ailton, graduado em Engenharia Mecânica e desenvolvendo-me em linguagens de
 
 <br>
 <br>
- Acompanhe meu desenvolvimento através de meus repositórios!
+ Acompanhe meu desenvolvimento através dos repositórios!
  
  *Me sinto com poderes ao programar e criar, com propósito na transformação e na mudança.*
 <!--
